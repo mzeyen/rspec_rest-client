@@ -4,7 +4,7 @@
     },
     "console": {
         "@expanded": true,
-        "@height": 532,
+        "@height": 289,
         "@maximized": "false",
         "json()": {
             "meta": {
@@ -32,8 +32,8 @@
                         "terminal": {
                             "id": "devel_159",
                             "cwd": "",
-                            "width": 1408,
-                            "height": 506
+                            "width": 1473,
+                            "height": 263
                         }
                     },
                     "editorType": "terminal",
@@ -54,20 +54,20 @@
     },
     "ext": {
         "counters": {
-            "@ace": 3,
+            "@ace": 1,
             "@acestatus": 1,
-            "@divider": 7,
-            "@document": 8,
+            "@divider": 4,
+            "@document": 7,
             "@form": 5,
             "@immediate": 2,
-            "@menu": 7,
-            "@menuitem": 27,
+            "@menu": 5,
+            "@menuitem": 13,
             "@pane": 3,
-            "@postmessage": 1,
+            "@postmessage": 4,
             "@preview": 1,
-            "@session": 8,
+            "@session": 7,
             "@tab": 2,
-            "@undoManager": 8
+            "@undoManager": 7
         }
     },
     "findinfiles": {
@@ -133,7 +133,7 @@
     },
     "tabs": {
         "json()": {
-            "focus": "/rspec_test/test.rb",
+            "focus": "tab0",
             "meta": {
                 "accessList": [
                     "tab3",
@@ -152,7 +152,7 @@
                     "document": {
                         "changed": false,
                         "meta": {
-                            "timestamp": 1446533623114
+                            "timestamp": 1446540234925
                         },
                         "filter": true,
                         "title": "Gemfile",
@@ -167,13 +167,12 @@
                     "name": "tab3",
                     "path": "/rspec_test/test.rb",
                     "className": [
-                        "tab3",
-                        "focus"
+                        "tab3"
                     ],
                     "document": {
                         "changed": false,
                         "meta": {
-                            "timestamp": 1446536610512
+                            "timestamp": 1446624009231
                         },
                         "filter": true,
                         "title": "test.rb",
@@ -191,7 +190,7 @@
     },
     "tree_selection": {
         "json()": [
-            "/rspec_test/.gitignore"
+            "/rspec_test/Gemfile"
         ]
     }
 }
